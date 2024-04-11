@@ -30,12 +30,12 @@ To ascend to the lofty heights of the Grandiose Tome Repository Management Syste
 
 1. **Invoke the Repository**: 
    ```
-   git clone <repository_url>
+   git clone https://github.com/Harsh-248/Book-Inventory.git
    ```
 
 2. **Summon Dependencies**: 
    ```
-   cd grandiose-tome-repository
+   cd Book-Inventory       (grandiose-tome-repository)
    npm install
    ```
 
@@ -64,4 +64,4 @@ This divine creation is shielded by the sacred covenant of the [MIT License](LIC
 
 ## Communion with the Divine
 
-For communion with the celestial architects behind this divine creation, beseech the cosmic deities at [Your Name](mailto:your_email@example.com).
+For communion with the celestial architects behind this divine creation, beseech the cosmic deities at [Harish](https://github.com/Harsh-248).
